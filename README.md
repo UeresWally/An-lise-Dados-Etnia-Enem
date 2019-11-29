@@ -4,7 +4,7 @@
 
 **Wallace Caetano: [uereswally](https://github.com/uereswally)**
 
-**João Pedro Paes: [JPPaes](https://github.com/)**
+**João Pedro Paes: [JPPaes](https://github.com/JoaoPedroPaes)**
 
 # Trabalho
 O tema proposto neste projeto é análisar a quantidade de inscritos por Etnia no Enem de 2014 a 2018 em relação ao total de inscritos no Enem. Estes dados foram baixados através do endereço http://inep.gov.br/microdados e os arquivos usados estavam no formato csv
